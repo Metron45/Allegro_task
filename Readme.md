@@ -14,7 +14,7 @@ Inside the powershell console run command:
 
 ### Running the server:
 
-Inside the powershell console to the directory containing manage.py. Run the server using:
+Using console inside the directory containing manage.py. Run the server using:
 
 `python .\manage.py runserver`
 
